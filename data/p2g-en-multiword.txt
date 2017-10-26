@@ -1,0 +1,8 @@
+1	AdAt
+1	NoCo	ApPr	AdAt	AdAt	NoCo	NoCo
+1	NoCo	ApPr	AdAt	AdAt	NoCo
+1	NoCo	ApPr	AdAt	AdAt	NoPr
+1	NoCo	ApPr	AdAt	NoCo	ApPr	NoCo
+1	NoCo	ApPr	AdAt	NoCo	NoCo
+1	NoCo	ApPr	AdAt	NoCo	NoPr
+1	NoCo	ApPr	AdAt	NoCo

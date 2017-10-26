@@ -1,0 +1,2 @@
+haus	No	house	No
+gold	No	gold	No

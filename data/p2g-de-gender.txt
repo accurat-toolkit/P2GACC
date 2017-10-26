@@ -1,0 +1,4 @@
+ation	mask
+ierung	fem
+ismus	mask
+radion	neutr

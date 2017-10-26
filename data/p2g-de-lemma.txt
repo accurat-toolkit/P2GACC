@@ -1,0 +1,5 @@
+hoffnungen	hoffnung	NoCo
+starb	sterben	VbFF
+dienst	dienen	VbFF
+dienst	dienst	NoCo
+blaueste	blau	AdAt

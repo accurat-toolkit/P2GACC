@@ -1,0 +1,5 @@
+houses	house	NoCo
+forgotten	forget	VbFF
+forgotten	forgotten	AdAt
+interests	interest	NoCo
+interests	interest	VbFF
